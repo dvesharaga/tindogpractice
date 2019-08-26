@@ -47,5 +47,6 @@ nav-link {
 /* title image */
 .title-image {
   width: 60%;
+  transform: rotate(30deg);
 }
 
