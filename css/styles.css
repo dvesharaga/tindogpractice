@@ -7,7 +7,6 @@ h1 {
   font-family: "Montserrat-Black";
   font-size: 3rem;
   line-height: 1.5;
-  font-color: white;
 }
 
 .container-fluid {
@@ -15,4 +14,5 @@ h1 {
 }
 #title {
   background-color: #ff4c68;
+  color: #fff;
 }
