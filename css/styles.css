@@ -16,3 +16,10 @@ h1 {
   background-color: #ff4c68;
   color: #fff;
 }
+
+/* Navigation Bar */
+
+.navbar-brand {
+  font-family: "Ubunto";
+  
+}
