@@ -19,6 +19,10 @@ h1 {
 
 /* Navigation Bar */
 
+.navbar {
+  padding-bottom: 2.5rem;
+}
+
 .navbar-brand {
   font-family: "Ubunto";
   font-size: 2.5rem;
