@@ -53,6 +53,13 @@ nav-link {
 
 /* features */
 
-#features h3{
+#features{
   margin: auto;
 }
+
+#features h3{
+  text-align: center;
+  font-family: "Montserrat-Bold";
+  font-size: 1.5rem;
+}
+
