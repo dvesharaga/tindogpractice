@@ -12,12 +12,13 @@ h1 {
 .container-fluid {
  padding: 3% 15%; 
 }
+
+/* Navigation Bar */
+
 #title {
   background-color: #ff4c68;
   color: #fff;
 }
-
-/* Navigation Bar */
 
 .navbar {
   padding: 0 0 4.5rem;
@@ -50,3 +51,8 @@ nav-link {
   transform: rotate(25deg);
 }
 
+/* features */
+
+#features {
+  text-align: center;
+}
