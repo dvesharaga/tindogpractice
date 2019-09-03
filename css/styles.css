@@ -84,3 +84,16 @@ nav-link {
   color: #fff;
 }
 
+.testimonials-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+/* press section */
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 10%;
+}
