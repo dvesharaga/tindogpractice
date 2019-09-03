@@ -105,3 +105,9 @@ nav-link {
   width: 15%;
   margin:20px 20px 50px;
 }
+
+/* Pricing */
+
+#pricing {
+  padding: 100px;
+}
