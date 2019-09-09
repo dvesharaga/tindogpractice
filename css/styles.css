@@ -23,6 +23,7 @@ h2 {
 #title {
   background-color: #ff4c68;
   color: #fff;
+  
 }
 
 .navbar {
@@ -54,9 +55,15 @@ nav-link {
 .title-image {
   width: 60%;
   transform: rotate(25deg);
+  position: absolute;
 }
 
 /* features */
+
+#features {
+  background-color: #fff;
+  position: relative;
+}
 
 #features i{
   text-align: center;
